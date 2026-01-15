@@ -1,5 +1,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 ![Language: Python](https://img.shields.io/badge/Language-Python-blue)
+![Library: Turtle](https://img.shields.io/badge/Graphics-Turtle-green)
+
 
 # 🎮 Python Game Hub (2-in-1 Game Project)
 
